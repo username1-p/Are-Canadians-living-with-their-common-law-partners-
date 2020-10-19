@@ -1,2 +1,2 @@
 # Are-Canadians-living-with-their-common-law-partners-
-my analysis 
+My regression analysis to determine important predictors for the response variable whether Canadians are living with their common-law partners. 
