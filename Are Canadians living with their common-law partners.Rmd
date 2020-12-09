@@ -1,6 +1,6 @@
 ---
 title: Are Canadians living with their common-law partners?
-author: Prinsa Gandhi, Student ID- 1005245879
+author: Prinsa Gandhi
 date: October 19, 2020
 output: pdf_document
 latex_engine: xelatex
